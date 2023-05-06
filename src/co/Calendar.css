@@ -18,7 +18,7 @@ button.day {
   }
   
   button.day:hover {
-    background-color: #
+    background-color:gray
   }
   .days {
     display: inline-flex;
