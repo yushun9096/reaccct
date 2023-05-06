@@ -1,0 +1,32 @@
+.days {
+    width: 49%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+button.day {
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+    padding: 0;
+
+    height: 30px;
+    margin: 5px;
+    color: #333;
+    cursor: pointer;
+  }
+  
+  button.day:hover {
+    background-color: #
+  }
+  .days {
+    display: inline-flex;
+    width: 49%;
+    justify-content: space-between;
+  }
+  .day {
+    width: calc(49% / 7);
+    text-align: center;
+  }
+  
